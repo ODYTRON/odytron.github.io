@@ -1,3 +1,5 @@
+
+
 body {
     background-color: white;
     
@@ -267,3 +269,11 @@ body {
     display: grid;
   
   }
+
+
+@media only screen and (max-width: 480px) {
+  body {
+    font-size: 12px;
+  }
+  
+}
